@@ -9,7 +9,7 @@ The technologies used in this project are:
 5.Bootstrap
 6.Java Script
 
-XAMPP Software required to run the project
+XAMPP Software required to run the project.
 
 1st Step: Extract file
 2nd Step: Copy the main project folder
