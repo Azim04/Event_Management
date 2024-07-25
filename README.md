@@ -11,7 +11,7 @@ The technologies used in this project are:
 
 **XAMPP Software required to run the project**.
 
-Step-1: Extract file
+Step-1: Extract file <br>
 Step-2: Copy the main project folder
 Step-3: Paste in computer xampp/htdocs/
 
