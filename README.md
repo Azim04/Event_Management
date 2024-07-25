@@ -9,8 +9,8 @@ The technologies used in this project are:
 5.Bootstrap<br>
 6.Java Script
 
-<h3>**XAMPP Software required to run the project**</h3>
-**Follow the steps in order to run this project on your local machine**<br>
+<h3>XAMPP Software is required to run the project</h3>
+**Follow the steps in order to run this project on your local machine** <br>
 Step-1: Extract file <br>
 Step-2: Copy the main project folder<br>
 Step-3: Paste in computer xampp/htdocs/<br>
