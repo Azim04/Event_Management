@@ -9,20 +9,20 @@ The technologies used in this project are:
 5.Bootstrap
 6.Java Script
 
-XAMPP Software required to run the project.
+**XAMPP Software required to run the project**.
 
-1st Step: Extract file
-2nd Step: Copy the main project folder
-3rd Step: Paste in computer xampp/htdocs/
+Step-1: Extract file
+Step-2: Copy the main project folder
+Step-3: Paste in computer xampp/htdocs/
 
 Now Connecting Database
 
-4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
-5th Step: Then, click on the databases tab
-6th Step: Create a database naming “year2project” and then click on the import tab
-7th Step: Click on browse file and select “year2project.sql” file which is inside the “database” folder
-8th Step: Click on go.
+Step-4: Open a browser and go to URL “http://localhost/phpmyadmin/”
+Step-5: Click on "databases" tab
+Step-6: Create a database naming “year2project” and then click on the import tab
+Step-7: Click browse file and select “year2project.sql” file which is in the “database” folder
+Step-8: Click on go.
 
 After Creating Database,
 
-9th Step: Open a browser and go to URL “http://localhost/Eventmanagement/”
+Finally, open a browser and go to URL “http://localhost/Eventmanagement/”
