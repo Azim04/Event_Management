@@ -11,7 +11,7 @@ The technologies used in this project are:
 
 <h3>XAMPP Software is required to run the project</h3>
 <b>Follow the steps in order to run this project on your local machine</b>  <br> <br>
-Step-1: Extract file <br>
+Step-1: Extract the file <br>
 Step-2: Copy the main project folder<br>
 Step-3: Paste in computer xampp/htdocs/<br>
 
